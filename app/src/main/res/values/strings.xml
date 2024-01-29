@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimDetactApp</string>
+
+    <string name="com_auth0_client_id">saml20-idp-hosted</string>
+    <string name="com_auth0_domain">https://adfs.dev.snu.edu.in/adfs/services/trust</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
